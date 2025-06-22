@@ -25,5 +25,5 @@ I'm learning Python for Data Science from the ground up. Every day I show up, pr
 ## Connect with Me
 - GitHub: https://github.com/ichnuke
 - Email: vishnuspacekk@gmail.com
-- Telegram: @vishnv
-- X: @0xVichu
+- Telegram: https://t.me/vishnv
+- X: https://x.com/0xVichu
