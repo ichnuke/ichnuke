@@ -27,9 +27,3 @@ I'm learning Python for Data Science from the ground up. Every day I show up, pr
 - Email: vishnuspacekk@gmail.com
 - Telegram: @vishnv
 - X: @0xVichu
-
----
-
-Let’s build — one day at a time.
-
----
