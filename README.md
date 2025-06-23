@@ -2,7 +2,7 @@
 I'm learning Python for Data Science from the ground up. Every day I show up, practice, and document what I learn — publicly.
 
 ## What I'm Doing Now
-- Learning Python and data libraries
+- Learning Data Science with Python
 - Working on small problems
 - Building a habit of daily progress through coding
 
