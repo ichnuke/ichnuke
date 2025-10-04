@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Vishnu
-I'm learning Python for Data Science from the ground up. Every day I show up, practice, and document what I learn — publicly.
+I'm learning Python for Data Science from the ground up. Every day I show up, practice, and document what I learn.
 
 ## What I'm Doing Now
 - Learning Data Science with Python
@@ -18,7 +18,6 @@ I'm learning Python for Data Science from the ground up. Every day I show up, pr
 - VS Code
 
 ## Goals
-- Become job-ready in 6 months
 - Build 10+ real portfolio projects
 - Use GitHub as proof-of-work
 
